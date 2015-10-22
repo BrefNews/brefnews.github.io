@@ -1,22 +1,22 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+permalink:            pretty
+relative_permalinks:  true
 
 # Setup
-title:               Bref News
-tagline:             "L'actualité synthétisée"
-description:         "<a href=\"https://twitter.com/BrefNews\" target=\"_blank\">Bref News</a>Bref News est une source d'actualité adaptée au rythme citadin : des titres synthétisés à l'extrème pour une lecture ajustée sur smartphones et adéquate aux transports en commun."
-url:                 "http://bref.news"
-baseurl:             ""
-paginate:            1
+title:                "Bref News"
+tagline:              "L'actualité synthétisée"
+description:          "<a href=\"https://twitter.com/BrefNews\" target=\"_blank\">Bref News</a> est une source d'actualité adaptée à un rythme de vie soutenu : des titres synthétisés à l'extrème pour une lecture ajustée sur smartphones et adéquate aux transports en commun."
+url:                  "http://bref.news"
+baseurl:              ""
+paginate:             1
 
 # About/contact
 author:
-  name:              Bref News
-  url:               "http://bref.news"
-  email:             "contact@bref.news"
+  name:               "Bref News"
+  url:                "http://bref.news"
+  email:              "contact@bref.news"
 
 # Custom vars
-version:             1.0.0
+twitter:              "https://twitter.com/BrefNews"
