@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Bref News
+tagline:             'L'actualité synthétisée'
+description:         '<a href="https://twitter.com/BrefNews" target="_blank">Bref News</a>Bref News est une source d'actualité adaptée au rythme citadin : des titres synthétisés à l'extrème pour une lecture ajustée sur smartphones et adéquate aux transports en commun.'
+url:                 http://bref.news
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Bref News
+  url:               http://bref.news
+  email:             contact@bref.news
 
 # Custom vars
 version:             1.0.0
