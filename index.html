@@ -21,18 +21,17 @@ title: Accueil
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Article précédent</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">{{ site.prev_article }}</a>
   {% else %}
-    <span class="pagination-item older">Article précédent</span>
+    <span class="pagination-item older">{{ site.prev_article }}</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Article suivant</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">{{ site.next_article }}</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Article suivant</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">{{ site.next_article }}</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Article suivant</span>
   {% endif %}
 </div>
-
