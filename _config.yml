@@ -2,12 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:            pretty
-relative_permalinks:  true
+#relative_permalinks:  true
 
 # Setup
 title:                "Bref News"
 tagline:              "L'actualité synthétisée"
-description:          "<a href=\"https://twitter.com/BrefNews\" target=\"_blank\">Bref News</a> va à l'essentiel : des titres synthétisés avec soin pour une lecture adaptée aux smartphones."
+description:          "<a href=\"https://twitter.com/BrefNews\" target=\"_blank\">Bref News</a> va à l'essentiel&nbsp;: des titres synthétisés avec soin pour une lecture adaptée aux smartphones."
 url:                  "http://bref.news"
 baseurl:              ""
 paginate:             1
