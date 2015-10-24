@@ -90,14 +90,26 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2rem;
 }
+
+
 .svg-icon {
   vertical-align: text-top;
+  width: 1.5rem;
   height: 1.5rem;
   margin-right: .2rem;
 }
-.svg-icon path {
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
   fill: #268bd2;
 }
+
+.svg-icon circle {
+  stroke: #268bd2;
+  stroke-width: 1;
+}
+
 h2 {
   margin: 3rem 0 2rem;
   font-size: 1.5rem;

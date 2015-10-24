@@ -21,6 +21,7 @@ author:
 twitter:
   url:                "https://twitter.com/BrefNews"
   name:               "Twitter"
+  username:           "BrefNews"
 
 prev_article:         "Article précédent"
 next_article:         "Article suivant"

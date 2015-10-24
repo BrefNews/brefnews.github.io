@@ -9,7 +9,7 @@ title: Le budget de la Malaisie, Cameron flatte la Chine, l'Ukraine parle affair
 Alphabet, la société mère du géant de l'Internet, a rapporté un bénéfice net au troisième trimestre de 4 milliards de dollars, contre 2,7 milliards un an plus tôt, en raison principalement de la hausse des ventes de publicités sur YouTube et mobiles.
 L'annonce inattendue du [rachat de plus de 5 milliards de dollars d'actions](http://fr.reuters.com/article/technologyNews/idFRKCN0SG2RB20151023 "Alphabet (Google) bat le consensus et rachète des actions") a fait grimper le prix de l'action encore plus haut.
 
-**Le Cloud a donné un coup de pouce à Microsoft…**
+**Le cloud a donné un coup de pouce à Microsoft…**
 Le dinosaure de l'informatique a déclaré un bénéfice net au troisième trimestre de 4,6 milliards de dollars, contre 4,5 milliards l'an dernier.
 [Les revenus de ses services de cloud se portent bien](http://fr.reuters.com/article/businessNews/idFRKCN0SG2QK20151022 "Le CA de Microsoft meilleur que prévu grâce au cloud"), ce qui est crucial au vu de la baisse des ventes de PC.
 
@@ -18,7 +18,7 @@ Le géant du e-commerce a affiché un bénéfice de 79 millions de dollars net a
 Ce bénéfice, contre un déficit il y a un an, est intervenu après une [solide performance des Amazon Web Services](http://fr.reuters.com/article/businessNews/idFRKCN0SG2SU20151022 "Amazon crée encore la surprise avec un bénéfice"), sa branche de cloud qui concurrence directement Microsoft.
 
 **Le marché de l'immobilier chinois est stabilisé.**
-Les prix des propriétés étaient en baisse de seulement 0,9% en Septembre par rapport à l'an dernier, contre environ 2% et 4% en Août et Juillet, respectivement; [les loyers ont également augmenté](http://fr.reuters.com/article/frEuroRpt/idFRL5N12102V20151023 "Chine/Indicateurs-5e mois de hausse des prix du logement en septembre") pour le cinquième mois consécutif.
+Les prix des propriétés étaient en baisse de seulement 0,9% en septembre par rapport à l'an dernier, contre environ 2% et 4% en août et juillet, respectivement ; [les loyers ont également augmenté](http://fr.reuters.com/article/frEuroRpt/idFRL5N12102V20151023 "Chine/Indicateurs-5e mois de hausse des prix du logement en septembre") pour le cinquième mois consécutif.
 Cela suggère que les investisseurs chinois pourraient être de retour sur le marché de l'immobilier après son [récent krach](http://www.parismatch.com/Actu/Economie/Pourquoi-la-Chine-subit-un-krach-boursier-806676 "Pourquoi la Chine subit un krach boursier").
 
 ## {{ site.day_icon }} À surveiller aujourd'hui
@@ -38,4 +38,4 @@ Merkel a déclaré que l'Allemagne est prête à investir en Ukraine, mais seule
 **Jacob Zuma rencontre les étudiants protestataires.**
 Le président sud-africain va discuter d'une augmentation prévue des frais de scolarité, à la suite des manifestations d'étudiants; certains étudiants ont pris d'assaut le parlement brièvement.
 
-**La période des résultats financiers se poursuit&nbsp;:** American Airlines, Procter & Gamble, Royal Caribbean Cruises, Thomson Reuters, Whirlpool, et Volvo ouvrent leurs livres de comptabilité.
+**La période des résultats financiers se poursuit :** American Airlines, Procter & Gamble, Royal Caribbean Cruises, Thomson Reuters, Whirlpool  et Volvo ouvrent leurs livres de comptabilité.
