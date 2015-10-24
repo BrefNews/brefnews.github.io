@@ -91,7 +91,9 @@ h1 {
   font-size: 2rem;
 }
 .svg-icon {
+  vertical-align: text-top;
   height: 1.5rem;
+  margin-right: .1rem;
 }
 .svg-icon path {
   fill: #268bd2;
