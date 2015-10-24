@@ -91,7 +91,9 @@ h1 {
   font-size: 2rem;
 }
 .svg-icon {
+  display: inline;
   max-height: 1.5rem;
+  fill: #268bd2;
 }
 h2 {
   margin: 3rem 0 2rem;
