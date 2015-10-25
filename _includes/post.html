@@ -1,0 +1,22 @@
+{% include normalize_article.html %}
+{% include current_date.html %}
+<div class="post" itemscope itemtype="//schema.org/NewsArticle">
+  <h1 class="post-title" itemprop="headline">
+    {% if post %}
+    <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
+    {% else %}
+    {{ article.title }}
+    {% endif %}
+  </h1>
+  <span class="post-date">Le {{ current_date }}</span>
+  <meta itemprop="datePublished" content="{{ article.date | date_to_xmlschema }}">
+  <div itemprop="articleBody">
+    {% if post %}
+    {{ article.content }}
+    {% else %}
+    {{ content }}
+    {% endif %}
+  </div>
+  {% include share.html %}
+</div>
+

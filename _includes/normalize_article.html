@@ -1,0 +1,7 @@
+{% if article == nil %}
+{% if post %}
+{% assign article = post %}
+{% else %}
+{% assign article = page %}
+{% endif %}
+{% endif %}

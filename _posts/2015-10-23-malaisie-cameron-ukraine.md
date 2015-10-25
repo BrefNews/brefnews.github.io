@@ -3,7 +3,7 @@ layout: post
 title: Le budget de la Malaisie, Cameron flatte la Chine, l'Ukraine parle affaires à Berlin
 ---
 
-## {{ site.night_icon }} Pendant que vous dormiez
+## {{ site.icons.night }}Pendant que vous dormiez
 
 **D'énormes profits pour Google.**
 Alphabet, la société mère du géant de l'Internet, a rapporté un bénéfice net au troisième trimestre de 4 milliards de dollars, contre 2,7 milliards un an plus tôt, en raison principalement de la hausse des ventes de publicités sur YouTube et mobiles.
@@ -21,7 +21,7 @@ Ce bénéfice, contre un déficit il y a un an, est intervenu après une [solide
 Les prix des propriétés étaient en baisse de seulement 0,9% en septembre par rapport à l'an dernier, contre environ 2% et 4% en août et juillet, respectivement ; [les loyers ont également augmenté](http://fr.reuters.com/article/frEuroRpt/idFRL5N12102V20151023 "Chine/Indicateurs-5e mois de hausse des prix du logement en septembre") pour le cinquième mois consécutif.
 Cela suggère que les investisseurs chinois pourraient être de retour sur le marché de l'immobilier après [son récent krach](http://www.parismatch.com/Actu/Economie/Pourquoi-la-Chine-subit-un-krach-boursier-806676 "Pourquoi la Chine subit un krach boursier").
 
-## {{ site.day_icon }} À surveiller aujourd'hui
+## {{ site.icons.day }}À surveiller aujourd'hui
 
 **Le premier ministre de la Malaisie lance les dés.**
 Najib Razak—qui n'a pas su expliquer précisément comment l'argent d'un fonds de développement de l'État a fini dans ses comptes bancaires personnels—va proposer un budget pour 2016 au parlement du pays.

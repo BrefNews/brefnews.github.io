@@ -2,11 +2,4 @@
 layout: default
 ---
 
-{% include calculate_date.md %}
-
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">Le {{ page.date | date: '%-d' }} {{ current_month }} {{ page.date | date: '%Y' }}</span>
-  {{ content }}
-  {% include share.html %}
-</div>
+{% include post.html %}
