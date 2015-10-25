@@ -19,7 +19,7 @@ Ce bénéfice, contre un déficit il y a un an, est intervenu après une [solide
 
 **Le marché de l'immobilier chinois est stabilisé.**
 Les prix des propriétés étaient en baisse de seulement 0,9% en septembre par rapport à l'an dernier, contre environ 2% et 4% en août et juillet, respectivement ; [les loyers ont également augmenté](http://fr.reuters.com/article/frEuroRpt/idFRL5N12102V20151023 "Chine/Indicateurs-5e mois de hausse des prix du logement en septembre") pour le cinquième mois consécutif.
-Cela suggère que les investisseurs chinois pourraient être de retour sur le marché de l'immobilier après son [récent krach](http://www.parismatch.com/Actu/Economie/Pourquoi-la-Chine-subit-un-krach-boursier-806676 "Pourquoi la Chine subit un krach boursier").
+Cela suggère que les investisseurs chinois pourraient être de retour sur le marché de l'immobilier après [son récent krach](http://www.parismatch.com/Actu/Economie/Pourquoi-la-Chine-subit-un-krach-boursier-806676 "Pourquoi la Chine subit un krach boursier").
 
 ## {{ site.day_icon }} À surveiller aujourd'hui
 
