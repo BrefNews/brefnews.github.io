@@ -10,7 +10,7 @@ Alphabet, la société mère du géant de l'Internet, a rapporté un bénéfice 
 L'annonce inattendue du [rachat de plus de 5 milliards de dollars d'actions](http://fr.reuters.com/article/technologyNews/idFRKCN0SG2RB20151023 "Alphabet (Google) bat le consensus et rachète des actions") a fait grimper le prix de l'action encore plus haut.
 
 **Le cloud a donné un coup de pouce à Microsoft…**
-Le dinosaure de l'informatique a déclaré un bénéfice net au troisième trimestre de 4,6 milliards de dollars, contre 4,5 milliards l'an dernier.
+Le pionnier de l'informatique a déclaré un bénéfice net au troisième trimestre de 4,6 milliards de dollars, contre 4,5 milliards l'an dernier.
 [Les revenus de ses services de cloud se portent bien](http://fr.reuters.com/article/businessNews/idFRKCN0SG2QK20151022 "Le CA de Microsoft meilleur que prévu grâce au cloud"), ce qui est crucial au vu de la baisse des ventes de PC.
 
 **…et à Amazon.**

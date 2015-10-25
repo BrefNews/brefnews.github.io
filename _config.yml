@@ -1,12 +1,13 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:            "pretty"
+permalink:            ":title/"
 
 # Setup
 title:                "Bref News"
 tagline:              "L'actualité synthétisée"
-description:          "<a href=\"https://twitter.com/BrefNews\" target=\"_blank\">Bref News</a> va à l'essentiel&nbsp;: des titres synthétisés avec soin pour une lecture adaptée aux smartphones."
+description:          "L'actualité économique synthétisée avec soin pour une lecture rapide."
+long_description:     "Bref News va à l'essentiel : l'actualité économique synthétisée avec soin pour une lecture rapide."
 url:                  "http://bref.news"
 baseurl:              ""
 paginate:             1
@@ -17,11 +18,17 @@ author:
   url:                "http://bref.news"
   email:              "contact@bref.news"
 
+sass:
+  style: :compressed
+
+exclude:
+    - CNAME
+
 # Custom vars
 twitter:
   url:                "https://twitter.com/BrefNews"
-  name:               "Twitter"
   username:           "BrefNews"
+  share_text:         "L'actualité résumée du "
 
 prev_article:         "Article précédent"
 next_article:         "Article suivant"
