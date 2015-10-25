@@ -58,10 +58,16 @@ h1 {
 }
 
 
-.share-buttons a:hover,
-.share-buttons a:focus,
-.share-buttons a:active {
-  text-decoration: none;
+.share-buttons {
+  a {
+    padding: .5rem;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration: none;
+    }
+  }
 }
 
 
@@ -69,7 +75,6 @@ h1 {
   vertical-align: text-top;
   width: 1.5rem;
   height: 1.5rem;
-  margin-right: .2rem;
 }
 
 .svg-icon path,

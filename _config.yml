@@ -8,7 +8,7 @@ title:                "Bref News"
 tagline:              "L'actualité synthétisée"
 description:          "L'actualité économique synthétisée avec soin pour une lecture rapide."
 long_description:     "Bref News va à l'essentiel : l'actualité économique synthétisée avec soin pour une lecture rapide."
-url:                  "http://bref.news"
+url:                  "https://bref.news"
 baseurl:              ""
 paginate:             1
 
