@@ -1,4 +1,4 @@
-permalink:            ":title"
+permalink:            ":title/"
 
 title:                "Bref News"
 tagline:              "L'actualité synthétisée"
