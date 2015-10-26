@@ -8,7 +8,7 @@ permalink: viande-patricia-pologne/
 
 **L'ouragan Patricia n'a causé aucun décès.**
 En mer, il a été mesuré comme l'ouragan le plus puissant au monde en se dirigeant vers le Mexique avec des vents de plus de 300 km/h.
-Sur terre, il a été rétrogradé en tempête tropicale et les dégâts semblent ["moins importants" que prévu](http://www.lemonde.fr/planete/article/2015/10/24/mexique-l-ouragan-patricia-a-frappe-la-cote-pacifique_4796053_3244.html "Mexique : l’ouragan Patricia a frappé la côte pacifique"){:target="_blank"}.
+Sur terre, il a été rétrogradé en tempête tropicale et les dégâts semblent [«moins importants» que prévu](http://www.lemonde.fr/planete/article/2015/10/24/mexique-l-ouragan-patricia-a-frappe-la-cote-pacifique_4796053_3244.html "Mexique : l’ouragan Patricia a frappé la côte pacifique"){:target="_blank"}.
 
 **L'Argentine se projette dans l'après Kirchner.**
 Les argentins ont voté pour [élire leur nouveau président](http://www.20minutes.fr/monde/1716679-20151025-argentine-election-presidentielle-fin-dynastie-kirchner "Argentine: Avec l'élection présidentielle, la fin de la dynastie Kirchner"){:target="_blank"} ce dimanche, après 13 ans de règne de Néstor Kirchner et de sa femme Cristina.
