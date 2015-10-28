@@ -21,7 +21,7 @@ Les ventes du troisième trimestre ont augmenté de 1,8 %, marquant un retour en
 ## {{ site.icons.day }}À surveiller aujourd'hui
 
 **Angela Merkel débute sa visite en Chine.**
-Avec la huitième visite de la chancelière allemande sur le continent depuis 2005, l'Allemagne cherche à surpasser les derniers du Royaume-Uni réalisés avec la Chine, qui ont totalisé 61 milliards de dollars. Merkel mènera une délégation économique, comprenant le nouveau PDG de Volkswagen, Matthias Mueller, à la ville de Hefei.
+Avec la huitième visite de la chancelière allemande sur le continent depuis 2005, l'Allemagne cherche à surpasser les derniers accords du Royaume-Uni réalisés avec la Chine, qui ont totalisé 61 milliards de dollars. Merkel mènera une délégation économique, comprenant le nouveau PDG de Volkswagen, Matthias Mueller, à la ville de Hefei.
 
 **En parlant de Volkswagen…**
 Avant son voyage, Mueller devra faire face aux investisseurs pour les premières publications des résultats trimestriels du constructeur automobile depuis le scandale. VW devrait afficher une perte de 3,3 milliards d'euros, contre un bénéfice de taille similaire un an plus tôt et il risque jusqu'à 78 milliards d'euros de perte totale à cause du scandale.
