@@ -20,7 +20,7 @@ Les commissaires électoraux ont pris ces mesures car le nombre de votes a dépa
 
 **Le Nigeria a sauvé des centaines de victimes de Boko Haram.**
 L'armée a mené un raid sur deux camps d'insurgés, libérant 338 prisonniers—en majorité des femmes et des enfants—et tuant 30 extrémistes.
-Les 219 filles qui ont été enlevés à l'école en 2014 doivent encore être récupéré.
+Les 219 filles qui ont été enlevés à l'école en 2014 doivent encore être récupérées.
 
 ## {{ site.icons.day }}À surveiller aujourd'hui
 
