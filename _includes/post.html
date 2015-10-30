@@ -10,7 +10,16 @@
   </h1>
   <span class="post-date">Le <time datetime="{{ article.date | date_to_xmlschema }}" pubdate>{{ current_date }}</time></span>
   <meta itemprop="datePublished" content="{{ article.date | date_to_xmlschema }}">
-  <div itemprop="articleBody">
+  <button class="read-article" onclick="toggleSpeechSynthesis();">
+    <span>
+      Arrêter la lecture
+    </span>
+    <span>
+      {{ site.icons.start_reading }}
+      Lire l'article
+    </span>
+  </button>
+  <div class="article-body" itemprop="articleBody">
     {% if post %}
     {{ article.content }}
     {% else %}
@@ -19,4 +28,36 @@
   </div>
   {% include share.html %}
 </article>
+
+<script>
+  if ("speechSynthesis" in window) {
+    speechSynthesis.cancel();
+    $(".read-article").show();
+  }
+
+  function readArticle () {
+    $(".article-body p").each(function() {
+      var sentences = $(this).text().split(",");
+      for (var i = 0; i < sentences.length; i++) {
+        var sentence = sentences[i] + ".";
+        var msg = new SpeechSynthesisUtterance();
+        msg.text = sentence;
+        msg.lang = "fr-FR";
+        speechSynthesis.speak(msg);
+      }
+    });
+  }
+
+  function toggleSpeechSynthesis() {
+    if ("speechSynthesis" in window) {
+      if ($(".read-article").hasClass("reading")) {
+        speechSynthesis.cancel();
+        $(".read-article").removeClass("reading")
+      } else {
+        $(".read-article").addClass("reading");
+        readArticle();
+      }
+    }
+  }
+</script>
 

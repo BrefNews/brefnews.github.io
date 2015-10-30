@@ -7,7 +7,8 @@ permalink: iphone-chine-twitter-iran/
 ## {{ site.icons.night }}Pendant que vous dormiez
 
 **Apple amasse toujours plus d'argent.**
-Le fabricant de l'iPhone a déclaré un bénéfice net du quatrième trimestre de 11,1 milliards de dollars, soit beaucoup plus que les 8,5 milliards de l'an dernier, en partie grâce aux ventes d'iPhone en Chine qui ont doublé. Les actions ont augmenté après cette annonce, mais ont également vacillé suite aux préoccupations dues aux ventes trimestrielles en Chine qui ont diminué par rapport au deuxième trimestre.
+Le fabricant de l'iPhone a déclaré un bénéfice net du quatrième trimestre de 11,1 milliards de dollars, soit beaucoup plus que les 8,5 milliards de l'an dernier, en partie grâce aux ventes d'iPhones en Chine qui ont doublé.
+Les actions ont augmenté après cette annonce, mais ont également vacillé suite aux préoccupations dues aux ventes trimestrielles en Chine qui ont diminué par rapport au deuxième trimestre.
 
 **La croissance de Twitter a stagné.**
 Le réseau social a prévu un chiffre d'affaires de pas plus de 710 millions de dollars au quatrième trimestre—bien en deçà des attentes des analystes qui étaient de 740 millions—et a ajouté avoir gagné seulement 4 millions de nouveaux utilisateurs actifs par mois au troisième trimestre, également en dessous des estimations. Les actions ont chuté de près de 13 % suite à cette annonce.

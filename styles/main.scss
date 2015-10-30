@@ -1,6 +1,8 @@
 ---
 ---
 
+$blue: #268bd2;
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -34,7 +36,7 @@ body {
 }
 
 a {
-  color: #268bd2;
+  color: $blue;
   text-decoration: none;
 
   &:hover,
@@ -534,21 +536,76 @@ a.pagination-item:hover {
 }
 
 .svg-icon {
-  vertical-align: text-top;
   width: 1.5rem;
   height: 1.5rem;
-  margin-right: .5rem;
+
+  &.article-heading {
+    vertical-align: text-top;
+    margin-right: .5rem;
+  }
+
+  path,
+  polygon,
+  rect {
+    fill: $blue;
+  }
+
+  circle {
+    stroke: $blue;
+    stroke-width: 1;
+  }
 }
 
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-  fill: #268bd2;
-}
+.read-article {
+  position: relative;
+  display: none;
+  float: right;
+  border: 1px solid $blue;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+  overflow: hidden;
 
-.svg-icon circle {
-  stroke: #268bd2;
-  stroke-width: 1;
+  span {
+    line-height: 30px;
+    font-size: .8rem;
+    color: $blue;
+    -webkit-transition: visibility 0s, opacity 0.5s linear;
+    -moz-transition: visibility 0s, opacity 0.5s linear;
+    -ms-transition: visibility 0s, opacity 0.5s linear;
+    -o-transition: visibility 0s, opacity 0.5s linear;
+    transition: visibility 0s, opacity 0.5s linear;
+
+    .svg-icon {
+      vertical-align: top;
+    }
+  }
+
+  span:first-child {
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden;
+    opacity: 0;
+  }
+
+  &.reading {
+    span:last-child {
+      position: absolute;
+      left: 0;
+      top: 0;
+      visibility: hidden;
+      opacity: 0;
+    }
+
+    span:first-child {
+      position: static;
+      visibility: visible;
+      opacity: 1;
+    }
+  }
 }
 
 @import "highlights";
